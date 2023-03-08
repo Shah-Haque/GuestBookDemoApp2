@@ -1,0 +1,6 @@
+C:\Development\GuestBook Version 2\GuestBookLibrary\bin\Debug\GuestBookLibrary.dll
+C:\Development\GuestBook Version 2\GuestBookLibrary\bin\Debug\GuestBookLibrary.pdb
+C:\Development\GuestBook Version 2\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.AssemblyReference.cache
+C:\Development\GuestBook Version 2\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.CoreCompileInputs.cache
+C:\Development\GuestBook Version 2\GuestBookLibrary\obj\Debug\GuestBookLibrary.dll
+C:\Development\GuestBook Version 2\GuestBookLibrary\obj\Debug\GuestBookLibrary.pdb

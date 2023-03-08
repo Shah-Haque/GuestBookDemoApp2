@@ -1,0 +1,11 @@
+C:\Development\GuestBook Version 2\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Development\GuestBook Version 2\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Development\GuestBook Version 2\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Development\GuestBook Version 2\ConsoleUI\bin\Debug\GuestBookLibrary.dll
+C:\Development\GuestBook Version 2\ConsoleUI\bin\Debug\GuestBookLibrary.pdb
+C:\Development\GuestBook Version 2\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Development\GuestBook Version 2\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Development\GuestBook Version 2\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Development\GuestBook Version 2\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Development\GuestBook Version 2\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Development\GuestBook Version 2\ConsoleUI\obj\Debug\ConsoleUI.pdb
